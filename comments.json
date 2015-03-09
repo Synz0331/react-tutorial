@@ -1,4 +1,14 @@
 [
-    {"author": "Pete Hunt", "text": "This is one comment"},
-    {"author": "Jorgan Walke", "text": "This is *another* comment"}
+    {
+        "author": "Pete Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "author": "Jorgan Walke",
+        "text": "This is *another* comment"
+    },
+    {
+        "author": "Erik Eakins",
+        "text": "Completed 50/50 pts"
+    }
 ]
